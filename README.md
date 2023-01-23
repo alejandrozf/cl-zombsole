@@ -3,7 +3,7 @@
 
 Port of zombsole (https://github.com/fisadev/zombsole) to Common Lisp.
 
-It was to me to port it because you can play programming, maybe it can be fun to other Lispers too :)
+It was a lot of fun to me to port it because you can play programming, maybe it can be fun to other Lispers too :)
 
 See the README of the original game to see more documentation.
 
